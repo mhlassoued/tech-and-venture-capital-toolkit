@@ -6565,8 +6565,15 @@ Analytics and Dashboards
 * [Keen Dashboard GitHub](https://github.com/keen/dashboards)
 * [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
 
+
 * [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
 * [StatsDaemon (Bitly) GitHub](https://github.com/bitly/statsdaemon) 
+
+
+
+
+Analytics Visual Tagging Tools
+* [Weelytics](https://weelytics.com/)
 
 RapidMiner (Open Source) and IBM SPSS
 * [RapidMiner (Open Source)](https://rapidminer.com)
